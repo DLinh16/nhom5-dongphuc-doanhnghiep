@@ -13,4 +13,4 @@
 | 3 | Astra Child - Nhom 5 | Child theme | 1.0.0 | GPLv2 or later | Nhóm tự viết |
 
 | 4 | Akismet | Plugin | 5.7.2 | GPLv2 or later | wordpress.org |
-
+| 5 | WooCommerce | Plugin | 11.1.1 | GPLv3 | wordpress.org |

@@ -22,3 +22,6 @@ Text Domain:  astra-child
 }
 #nhom5-btt.show { display: block; }
 #nhom5-btt:hover { background: #155a94; }
+/* ===== Nut Yeu cau bao gia ===== */
+.nhom5-btn-baogia { background: #1e73be; color: #fff; padding: 10px 20px; border-radius: 6px; display: inline-block; }
+.nhom5-btn-baogia:hover { background: #155a94; color: #fff; }
