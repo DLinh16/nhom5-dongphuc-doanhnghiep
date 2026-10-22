@@ -35,15 +35,15 @@
 
 ## 4. Minh chứng
 
-Các ảnh minh chứng được lưu tại thư mục:
+Minh chứng thực hiện bài tập được lưu trong thư mục `D:\MINH CHỨNG\`, bao gồm minh chứng của giai đoạn 1 và giai đoạn 2.
 
-`D:\MINH CHỨNG\GiaiDoan2\`
-
-Các thư mục minh chứng liên quan:
+Đối với giai đoạn 2, các minh chứng liên quan đến kiểm tra và xử lý bảo mật được sắp xếp trong thư mục `D:\MINH CHỨNG\GiaiDoan2\`, cụ thể:
 
 - **`11-Hardening`:** Minh chứng cấu hình bảo mật.
-- **`12-OWASP-ZAP`:** Minh chứng quét bằng OWASP ZAP.
+- **`12-OWASP-ZAP`:** Minh chứng quét bảo mật bằng OWASP ZAP.
 - **`14-SauXuLy`:** Minh chứng cập nhật thành phần và quét lại sau xử lý.
+
+Các minh chứng giai đoạn 1 được giữ tại vị trí đã sắp xếp trước đó trong thư mục `D:\MINH CHỨNG\`.
 
 ## 5. Công việc cần tiếp tục
 
