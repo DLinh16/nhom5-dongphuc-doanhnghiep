@@ -37,11 +37,13 @@
 
 Minh chứng thực hiện bài tập được lưu trong thư mục `D:\MINH CHỨNG\`, bao gồm minh chứng của giai đoạn 1 và giai đoạn 2.
 
-Đối với giai đoạn 2, các minh chứng liên quan đến kiểm tra và xử lý bảo mật được sắp xếp trong thư mục `D:\MINH CHỨNG\GiaiDoan2\`, cụ thể:
+Các minh chứng liên quan đến giai đoạn 2 được sắp xếp như sau:
 
-- **`11-Hardening`:** Minh chứng cấu hình bảo mật.
-- **`12-OWASP-ZAP`:** Minh chứng quét bảo mật bằng OWASP ZAP.
-- **`14-SauXuLy`:** Minh chứng cập nhật thành phần và quét lại sau xử lý.
+- **STT 11 – Hardening:** Thư mục `11-Hardening`, lưu ảnh minh chứng cấu hình bảo mật.
+- **STT 12 – OWASP ZAP:** Thư mục `12-OWASP-ZAP`, lưu ảnh minh chứng quét bảo mật.
+- **STT 13 – Báo cáo lỗ hổng:** File `docs/tv5-huyen/bao-cao-lo-hong.md` trong repository GitHub của nhóm, ghi nhận các phát hiện, mức độ, cách xử lý và trạng thái khắc phục.
+- **STT 14 – Xử lý lỗ hổng và quét lại:** Thư mục `14-SauXuLy`, lưu minh chứng cập nhật thành phần và quét lại sau xử lý.
+- **STT 15 – Commit lên GitHub:** Báo cáo được commit và push lên nhánh `tv5-huyen` của repository nhóm.
 
 Các minh chứng giai đoạn 1 được giữ tại vị trí đã sắp xếp trước đó trong thư mục `D:\MINH CHỨNG\`.
 
