@@ -1,0 +1,40 @@
+/*
+Theme Name: TV2 Thanh Custom CSS
+*/
+
+/* ===== Banner trang chu ===== */
+.tv2-banner {
+    width: 100%;
+    padding: 60px 24px;
+    background-color: #f5f5f5;
+    text-align: center;
+}
+
+/* ===== Tieu de ===== */
+.tv2-title {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+/* ===== Nut lien he ===== */
+.tv2-btn {
+    display: inline-block;
+    padding: 12px 24px;
+    background: #1e73be;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 6px;
+    transition: 0.3s;
+}
+
+.tv2-btn:hover {
+    background: #155a94;
+    color: #fff;
+}
+
+/* ===== Anh banner ===== */
+.tv2-banner img {
+    max-width: 100%;
+    height: auto;
+}

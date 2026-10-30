@@ -91,6 +91,19 @@ function nhom5_chan_cart_checkout() {
     if ( function_exists( 'is_cart' ) && ( is_cart() || is_checkout() ) ) {
         wp_safe_redirect( home_url( '/' ) );
         exit;
+        /* =====================================================
+ * 6. TV2 - LOAD RIENG FILE GIAO DIEN
+ * ===================================================== */
+add_action( 'wp_enqueue_scripts', 'tv2_enqueue_giaodien_css', 20 );
+
+function tv2_enqueue_giaodien_css() {
+    wp_enqueue_style(
+        'tv2-giaodien',
+        get_stylesheet_directory_uri() . '/giaodien.css',
+        array( 'child-style' ),
+        '1.0.0'
+    );
+}
     }
 }
 add_filter( 'woocommerce_get_price_html', 'nhom5_an_gia' );
